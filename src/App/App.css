@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #111;
+  color: white;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #3499cc;
+  color: #fff;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.balance {
+  text-align: center;
+}
+.balance > div {
+  display: inline-block;
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #666;
+  color: #cfc;
+}
+
+.input-bet {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.show_cards {
+  color: #fcc
+}
+
+.cards {
+  margin: 0 auto;
+}
