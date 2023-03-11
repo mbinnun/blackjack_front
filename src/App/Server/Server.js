@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 // ==> The URL for the API
-//const apiURL = 'https://api.blackjackgame.mbionos.maremakom.com/api/games';
-const apiURL = 'http://localhost:9993/api/games';
+const apiURL = 'https://api.blackjackgame.mbionos.maremakom.com/api/games';
+//const apiURL = 'http://localhost:9993/api/games';
 
 const Server = {};
 

@@ -6,3 +6,6 @@ Use NodeJS >= 16
 npm install
 npm start
 
+# Note:
+Edit the file /src/App/Server/Server.js and fix the API link if you want to refer to a local API server.
+
